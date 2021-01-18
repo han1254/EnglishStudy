@@ -50,15 +50,17 @@
 
 
 
-![英语4](ch2_Grammar.assets/英语4.png)<u>**例3 [1998 英一 Text1]**</u>
+![英语4](ch2_Grammar.assets/英语4.png)<u>**例2 [1998 英一 Text1]**</u>
 
-> Perhaps it is humankind's long suffering <font color = red>**at the <font color = green>mercy</font> of flood and drought**</font> that makes the idea **<font color = red>of forcing the water to do our bidding</font>** so facinating.
+> Perhaps it is humankind's long suffering <font color = red>at the mercy of flood and drought</font>that makes the idea <font color = red>of forcing the water to do our bidding</font> so facinating.
 >
 > 也许正是人类长期受到旱涝灾害的摆布才使得“让水资源为我所用”的这种想法如此吸引人。
 
 
 
- <font color = green>**mercy**</font> : 虽然在大部分情况下，mercy的含义为`仁慈，恩惠`，但是在这里我们显然不能使用这个含义，而是另外的含义`受...摆布`
+
+
+mercy: 虽然在大部分情况下，mercy的含义为**仁慈，恩惠**，但是在这里我们显然不能使用这个含义，而是另外的含义**受...摆布**。
 
 
 
@@ -66,21 +68,29 @@
 
 
 
-`Perhaps it is ... that ...`是一种强调句型，
+**Perhaps it is ... that ...**是一种强调句型，我们找出强调句主干：
 
-我们找出强调句主干：
+
 
 > Perhaps it is humankind's <font color = red>long suffering</font> that makes the <font color = red>idea</font> so facinating
 >
 > 可能正是人类的长期受难使得这个想法如此吸引人
 
+
+
 这时候我们就要想，遭受的怎样的困难？这个idea是怎样的idea？
+
+
 
 > long suffring is at <font color = red>mercy</font>
 >
 > 这个长期的受难是受...摆布的
 
+
+
 被谁摆布？
+
+
 
 > long suffring is at the mercy <font color = red>of flood and drought</font>
 
