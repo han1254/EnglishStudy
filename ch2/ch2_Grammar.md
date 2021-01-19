@@ -22,9 +22,19 @@
 
 ## ![英语2](ch2_Grammar.assets/英语2.png)1. 简单句
 
+### ![英语1](ch2_Grammar.assets/英语1-1610966499617.png)1.1 从句
 
+#### ![英语](ch2_Grammar.assets/英语-1610966341206.png)1.1.1 表语从句
 
+> The lesson from dams is that <font color=red>big is not always beautiful</font>.
+>
+> 建造大坝的教训是：大的未必是好的。
 
+`The lesson from dams`——主语
+
+`is`——系动词
+
+`that...`——表语从句
 
 ## ![英语2](ch2_Grammar.assets/英语2.png)2. 长难句
 
@@ -104,6 +114,8 @@ mercy: 虽然在大部分情况下，mercy的含义为**仁慈，恩惠**，但�
 
 > Perhaps it is humankind's long suffering <font color = red>at the mercy of flood and drought</font> that makes the idea <font color = red>of forcing the water to do our bidding</font>.
 
+
+
 #### ![英语](ch2_Grammar.assets/英语-1610966349359.png)2.1.3 后置定语(3)
 
 > 名词 + 形容词/ed/ing
@@ -111,6 +123,8 @@ mercy: 虽然在大部分情况下，mercy的含义为**仁慈，恩惠**，但�
 #### ![英语](ch2_Grammar.assets/英语-1610966349359.png)2.1.4 后置定语(4)
 
 > 名词 + (介词) + who/that/which从句等
+
+
 
 #### ![英语](ch2_Grammar.assets/英语-1610966349359.png)2.1.5 后置定语(5)
 
